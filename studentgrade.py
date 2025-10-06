@@ -12,3 +12,5 @@ else:
     grade = 'Fail'
 
 print("Grade:", grade)
+print(f"Average Marks: {average:.2f}")
+print("Grade:", grade)
